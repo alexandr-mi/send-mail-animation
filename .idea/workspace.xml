@@ -2,59 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32d719fd-2beb-433b-9a8d-23aa90781bc9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/send-mail-animation.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.yo-rc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/browserSync.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/browserify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/clean.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/copy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/eslint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/imagemin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/jade.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/sass.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulp/watch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.babel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_data/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_images/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_images/papers/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_images/papers/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_images/papers/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_images/yeogurt-swirl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_layouts/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_layouts/base.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/check/main.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/check/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/circle/main.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/circle/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/mail-back/main.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/mail-back/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/mail-front/main.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/mail-front/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/papers/main.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/papers/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_scripts/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_scripts/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_styles/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_styles/global.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/_styles/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.jade" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/instruction/main.jade" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/_modules/instruction/main.scss" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/_styles/main.scss" afterPath="$PROJECT_DIR$/src/_styles/main.scss" />
+      <change beforePath="$PROJECT_DIR$/src/index.jade" afterPath="$PROJECT_DIR$/src/index.jade" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,41 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="global.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_styles/global.scss">
+      <file leaf-file-name="main.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_modules/instruction/main.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="69">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_modules/circle/main.scss">
+        <entry file="file://$PROJECT_DIR$/src/_modules/instruction/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_layouts/base.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="27" column="96" lean-forward="false" selection-start-line="27" selection-start-column="96" selection-end-line="27" selection-end-column="96" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_scripts/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="31" column="80" lean-forward="false" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+            <state relative-caret-position="319">
+              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -116,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_styles/main.scss" />
-        <option value="$PROJECT_DIR$/src/index.jade" />
         <option value="$PROJECT_DIR$/src/_modules/papers/main.jade" />
         <option value="$PROJECT_DIR$/src/_modules/mail-back/main.jade" />
         <option value="$PROJECT_DIR$/src/_modules/mail-front/main.jade" />
@@ -131,6 +61,10 @@
         <option value="$PROJECT_DIR$/src/_layouts/base.jade" />
         <option value="$PROJECT_DIR$/src/_scripts/main.js" />
         <option value="$PROJECT_DIR$/src/_modules/circle/main.scss" />
+        <option value="$PROJECT_DIR$/src/index.jade" />
+        <option value="$PROJECT_DIR$/src/_styles/main.scss" />
+        <option value="$PROJECT_DIR$/src/_modules/instruction/main.jade" />
+        <option value="$PROJECT_DIR$/src/_modules/instruction/main.scss" />
       </list>
     </option>
   </component>
@@ -190,12 +124,6 @@
               <item name="send-mail-animation" type="b2602c69:ProjectViewProjectNode" />
               <item name="send-mail-animation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="send-mail-animation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send-mail-animation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -203,13 +131,7 @@
               <item name="send-mail-animation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="circle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="send-mail-animation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="send-mail-animation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="instruction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="send-mail-animation" type="b2602c69:ProjectViewProjectNode" />
@@ -266,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524416801936</updated>
       <workItem from="1524416809607" duration="9254000" />
-      <workItem from="1524470908662" duration="1218000" />
+      <workItem from="1524470908662" duration="2230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10472000" />
+    <option name="totallyTimeSpent" value="11484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="476" y="0" width="1444" height="1080" extended-state="0" />
@@ -312,20 +234,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -399,6 +307,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/circle/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_styles/global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -423,10 +355,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_modules/circle/main.scss">
+    <entry file="file://$PROJECT_DIR$/src/_modules/instruction/main.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="69">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/instruction/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding />
         </state>
       </provider>
