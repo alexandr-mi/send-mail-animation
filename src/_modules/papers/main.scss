@@ -1,0 +1,26 @@
+.paper {
+  width: 100px;
+  height: 100px;
+  background-size: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transition: transform 0.5s;
+}
+.paper-1 {
+  transform: translate(-80%, -20%);
+}
+.paper-2 {
+  transform: translate(-50%, -50%);
+}
+.paper-3 {
+  transform: translate( -20%, -80%);
+}
+
+.paper.folder {
+  transform: translate(-50%, -50%);
+}
+
+.paper.hide {
+  display: none;
+}
